@@ -1,0 +1,122 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Сельсовет": "Великоритский"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.051475524902344,
+          51.93796833557219
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Сельсовет": "Гвозницкий"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.90625,
+          51.81763545609767
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Сельсовет": "Луковский"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.23377990722656,
+          51.887934991741986
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Сельсовет": "Малоритский"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.071903228759766,
+          51.79523956241829
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Сельсовет": "Мокранский"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.26433563232422,
+          51.83397425050641
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Сельсовет": "Олтушский"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.966932296752926,
+          51.68830799080076
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Сельсовет": "Ореховский"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.952598571777344,
+          51.63698467337938
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Сельсовет": "Хотиславский"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.10022735595703,
+          51.711288790896184
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Сельсовет": "Чернянский"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.211463928222656,
+          51.98673021902561
+        ]
+      }
+    }
+  ]
+}
