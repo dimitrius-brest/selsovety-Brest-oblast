@@ -1,0 +1,174 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Сельсовет": "Волчинский"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.310585021972656,
+          52.28616996701121
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Сельсовет": "Речицкий"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.00212287902832,
+          52.39354189179825
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Сельсовет": "Пелищенский"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.91818046569824,
+          52.319707434957024
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Сельсовет": "Каменюкский"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.79587173461914,
+          52.557516268516004
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Сельсовет": "Новицковичский"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.84556770324707,
+          52.44261787120725
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Сельсовет": "Дмитровичский"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.77819061279297,
+          52.4902020602177
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Сельсовет": "Видомлянский"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.782310485839844,
+          52.326999389155894
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Сельсовет": "Войский"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.62532615661621,
+          52.41257676825156
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Сельсовет": "Верховичский"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.510313034057617,
+          52.4737364312088
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Сельсовет": "Беловежский"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.45958709716797,
+          52.40372801226392
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Сельсовет": "Рясненский"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.410234451293945,
+          52.3925729095453
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Сельсовет": "Огородникский"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.348608016967773,
+          52.34414910383694
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Сельсовет": "Ратайчицкий"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.611421585083008,
+          52.34556483811643
+        ]
+      }
+    }
+  ]
+}
