@@ -1,0 +1,161 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Поссовет": "Домачевский"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.596401214599606,
+          51.74860770205595
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Сельсовет": "Знаменский"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.659658432006836,
+          51.88173650859906
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Сельсовет": "Томашовский"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.60511302947998,
+          51.553833831052444
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Сельсовет": "Страдечский"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.66180419921875,
+          51.928230763851
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Сельсовет": "Мухавецкий"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.80265235900879,
+          52.02941937235083
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Сельсовет": "Радваничский"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.00641441345215,
+          52.033379790423076
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Сельсовет": "Тельминский"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.831148147583008,
+          52.116546616418034
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Сельсовет": "Чернинский"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.751647472381592,
+          52.1508180100581
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Сельсовет": "Чернавчицкий"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.744544982910153,
+          52.212760902425885
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Сельсовет": "Клейниковский"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.60910415649414,
+          52.13967808964888
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Сельсовет": "Мотыкальский"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.585243225097656,
+          52.197085981518015
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Сельсовет": "Лыщицкий"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.50198745727539,
+          52.26080319094999
+        ]
+      }
+    }
+  ]
+}
