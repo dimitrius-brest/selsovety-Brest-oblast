@@ -4,7 +4,7 @@
     {
       "type": "Feature",
       "properties": {
-        "Поссовет": "Домачевский"
+        "Сельсовет": "Домачевский"
       },
       "geometry": {
         "type": "Point",
